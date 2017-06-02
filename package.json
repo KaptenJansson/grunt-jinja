@@ -39,6 +39,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "nunjucks": "~0.1.10"
+    "nunjucks": ">=0.1.10"
   }
 }
